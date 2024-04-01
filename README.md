@@ -7,4 +7,4 @@
 
 ## 示例
 角色：刘备
-![示例1]（images/demo.png）
+![示例1](images/demo.png)
