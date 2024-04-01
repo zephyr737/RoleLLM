@@ -5,3 +5,6 @@
 
 ​                        [hugging face下载地址](https://huggingface.co/datasets/zephyr7788/RoleData)
 
+## 示例
+角色：刘备
+![示例1]（images/demo.png）
